@@ -1,0 +1,18 @@
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\bin\Debug\netstandard2.0\SmashBros Tournament Locator.deps.json
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\bin\Debug\netstandard2.0\SmashBros Tournament Locator.dll
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\bin\Debug\netstandard2.0\SmashBros Tournament Locator.pdb
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\SmashBros Tournament Locator.csproj.AssemblyReference.cache
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\SmashBros Tournament Locator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\SmashBros Tournament Locator.AssemblyInfoInputs.cache
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\SmashBros Tournament Locator.AssemblyInfo.cs
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\SmashBros Tournament Locator.csproj.CoreCompileInputs.cache
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\SmashBros Tournament Locator.dll
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\refint\SmashBros Tournament Locator.dll
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\SmashBros Tournament Locator.pdb
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\ref\SmashBros Tournament Locator.dll
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\Source\About.xaml.g.cs
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\Source\App.xaml.g.cs
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\Source\FlyoutMenuPage.xaml.g.cs
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\Source\MainPage.xaml.g.cs
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\Source\Maps.xaml.g.cs

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ApkylBVA7Wy0oV2k35iYgsPoQTDnLeXtEVwgEPjf2lI1qGS/QgWthh6Lbuc85kNp0boTZJmmD4ieb2nvQauiAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bioni\\Desktop\\Programming\\SmashBros Tournament Locator\\SmashBros Tournament Locator.iOS\\SmashBros Tournament Locator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bioni\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bioni\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\bioni\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

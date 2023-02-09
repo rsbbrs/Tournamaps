@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SmashBros_Tournament_Locator"
+             Title="FlyoutMenu"
+             x:Class="SmashBros_Tournament_Locator.FlyoutMenuPage">
+
+    <StackLayout>
+        <ListView x:Name="listview" x:FieldModifier="public">
+
+            <!-- Flyout menu with corresponding pages. -->
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type local:FlyoutPageItem}">
+                    <local:FlyoutPageItem Title="Maps" TargetPage="{x:Type local:Maps}"/>
+                    <local:FlyoutPageItem Title="About" TargetPage="{x:Type local:About}"/>
+                    <!--local:FlyoutItemPage Title="About Us"/-->
+                </x:Array>
+            </ListView.ItemsSource>
+            
+            <!-- Template for displaying data in the flyout page. -->
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="30"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Grid.Column="1" Text="{Binding Title}" VerticalOptions="Center"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

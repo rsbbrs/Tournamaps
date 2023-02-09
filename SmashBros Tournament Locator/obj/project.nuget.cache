@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/o2Ppe93V3rAKWOG2Z2QbOBzqmVTb8l45oIk791fnoLZ9FfF7Oj26UCtwHcGC8ZpTaQl27C698aGt2uCYOs95g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bioni\\Desktop\\Programming\\SmashBros Tournament Locator\\SmashBros Tournament Locator\\SmashBros Tournament Locator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bioni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bioni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bioni\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bioni\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\bioni\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

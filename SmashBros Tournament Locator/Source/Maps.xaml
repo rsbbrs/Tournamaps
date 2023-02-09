@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SmashBros_Tournament_Locator"
+             Title="Maps"
+             x:Class="SmashBros_Tournament_Locator.Maps">
+    
+    <!-- 
+         Right now, the content page simply echoes the text entered into the
+         search bar. Eventually, I'm hoping to transfer the search bar text
+         to Google Maps so that it can do its mapping wizardry and find the
+         location.
+    -->
+    <ContentPage.Content>
+        <StackLayout Margin="20,35,20,25">
+            <Entry x:Name="searchBar"
+                   Placeholder="Search Maps"
+                   Completed="OnEntryCompleted"/>
+            <Label x:Name="output"
+                   Text="{Binding SearchText}"
+                   FontSize="25"
+                   TextColor="Black"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
