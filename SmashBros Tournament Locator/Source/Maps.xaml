@@ -20,6 +20,8 @@
                    Text="{Binding SearchText}"
                    FontSize="25"
                    TextColor="Black"/>
+            <Label Text="This is where the map will be located, whenever I get that to work :)"
+                   VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
