@@ -13,9 +13,9 @@ namespace SmashBros_Tournament_Locator
 	public partial class Maps : ContentPage
 	{
 		// Private string storing the most recent search string.
-		private string _searchText;
+		private string searchText;
 
-		// Public property to access the private string.
+		/* Public property to access the private string.
 		public string SearchText
 		{
 			get
@@ -27,19 +27,20 @@ namespace SmashBros_Tournament_Locator
 				_searchText = value;
 				OnPropertyChanged("SearchText");
 			} 
-		}
+		}*/
 
 		public Maps()
 		{
 			InitializeComponent();
-			BindingContext = this;
+			//BindingContext = this;
+
+			output.BindingContext = searchBar;
+			output.SetBinding(Label.TextProperty, "Text");
 		}
 
 		void OnEntryCompleted(object sender, EventArgs e)
 		{
-			SearchText = ((Entry)sender).Text;
-            //output.SetBinding(Label.TextProperty, "Text");
-            Console.WriteLine(SearchText);
+			searchText = ((Entry)sender).Text;
 		}
     }
 }

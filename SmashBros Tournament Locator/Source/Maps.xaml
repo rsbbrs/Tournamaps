@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:SmashBros_Tournament_Locator"
              Title="Maps"
              x:Class="SmashBros_Tournament_Locator.Maps">
     
@@ -17,9 +16,7 @@
                    Placeholder="Search Maps"
                    Completed="OnEntryCompleted"/>
             <Label x:Name="output"
-                   Text="{Binding SearchText}"
-                   FontSize="25"
-                   TextColor="Black"/>
+                   FontSize="25"/>
             <Label Text="This is where the map will be located, whenever I get that to work :)"
                    VerticalOptions="CenterAndExpand" />
         </StackLayout>

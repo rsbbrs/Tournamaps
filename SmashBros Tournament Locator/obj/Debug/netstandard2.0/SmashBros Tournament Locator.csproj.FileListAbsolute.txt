@@ -16,3 +16,4 @@ C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tourna
 C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\Source\FlyoutMenuPage.xaml.g.cs
 C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\Source\MainPage.xaml.g.cs
 C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\Source\Maps.xaml.g.cs
+C:\Users\bioni\Desktop\Programming\SmashBros Tournament Locator\SmashBros Tournament Locator\obj\Debug\netstandard2.0\Source\Account.xaml.g.cs

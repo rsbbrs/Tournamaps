@@ -11,9 +11,9 @@
             <!-- Flyout menu with corresponding pages. -->
             <ListView.ItemsSource>
                 <x:Array Type="{x:Type local:FlyoutPageItem}">
-                    <local:FlyoutPageItem Title="Maps" TargetPage="{x:Type local:Maps}"/>
+                    <local:FlyoutPageItem Title="Maps" IconSource="maps.png" TargetPage="{x:Type local:Maps}"/>
                     <local:FlyoutPageItem Title="About" TargetPage="{x:Type local:About}"/>
-                    <!--local:FlyoutItemPage Title="About Us"/-->
+                    <local:FlyoutPageItem Title="My Account" TargetPage="{x:Type local:Account}"/>
                 </x:Array>
             </ListView.ItemsSource>
             
@@ -26,6 +26,7 @@
                                 <ColumnDefinition Width="30"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
+                            <Image Source="{Binding IconSource}"/>
                             <Label Grid.Column="1" Text="{Binding Title}" VerticalOptions="Center"/>
                         </Grid>
                     </ViewCell>

@@ -5,7 +5,7 @@
             x:Class="SmashBros_Tournament_Locator.MainPage">
 
     <!-- Content page displaying basic info for all pages. -->
-    <!--BackgroundColor="#1976d2" -->
+    <!-- BackgroundColor="#1976d2" -->
     <FlyoutPage.Flyout>
         <local:FlyoutMenuPage x:Name="flyout"/>
     </FlyoutPage.Flyout>
