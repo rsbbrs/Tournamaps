@@ -12,8 +12,8 @@
             <ListView.ItemsSource>
                 <x:Array Type="{x:Type local:FlyoutPageItem}">
                     <local:FlyoutPageItem Title="Maps" IconSource="maps.png" TargetPage="{x:Type local:Maps}"/>
-                    <local:FlyoutPageItem Title="About" TargetPage="{x:Type local:About}"/>
-                    <local:FlyoutPageItem Title="My Account" TargetPage="{x:Type local:Account}"/>
+                    <local:FlyoutPageItem Title="About" IconSource="info.png" TargetPage="{x:Type local:About}"/>
+                    <local:FlyoutPageItem Title="My Account" IconSource="accounts.png" TargetPage="{x:Type local:Account}"/>
                 </x:Array>
             </ListView.ItemsSource>
             
@@ -27,7 +27,7 @@
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
                             <Image Source="{Binding IconSource}"/>
-                            <Label Grid.Column="1" Text="{Binding Title}" VerticalOptions="Center"/>
+                            <Label Grid.Column="1" Text="{Binding Title}" VerticalOptions="Center" Padding="10"/>
                         </Grid>
                     </ViewCell>
                 </DataTemplate>

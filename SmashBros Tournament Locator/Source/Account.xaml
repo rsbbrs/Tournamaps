@@ -5,11 +5,11 @@
              x:Class="SmashBros_Tournament_Locator.Account">
     
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout Padding="15">
             <Label Text="Renato Scudere"
                 FontSize="24"
-                VerticalOptions="CenterAndExpand"
-                HorizontalOptions="CenterAndExpand" />
+                VerticalOptions="StartAndExpand"
+                HorizontalOptions="Start" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
